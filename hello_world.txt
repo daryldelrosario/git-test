@@ -2,3 +2,8 @@ Adding some text here as in step 6 of Odin Project:
 Section, foundations-git-basic.
 
 Will save, stage and add via terminal.
+
+At the end of the cheatsheet we configured the git commit to open in visual studio code using:
+git config --global core.editor "code --wait"
+
+Going to save and test
