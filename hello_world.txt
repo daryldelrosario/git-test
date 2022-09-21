@@ -1,0 +1,4 @@
+Adding some text here as in step 6 of Odin Project:
+Section, foundations-git-basic.
+
+Will save, stage and add via terminal.
