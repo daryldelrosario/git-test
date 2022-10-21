@@ -16,3 +16,4 @@ Able to insert image into README.md using HTML element <img> using relative path
 Verified accessible as long as image is in same repository.
 Going to test relative path, using image in a different repository.
 
+QUESTION: Does changing the name of repository effect this file?
