@@ -13,4 +13,4 @@ img/github-3d-logo.png
 https://github.com/daryldelrosario/odin-recipes/blob/main/img/miso-soup.jpg  
 <img src="https://github.com/daryldelrosario/odin-recipes/blob/main/img/miso-soup.jpg" alt="Miso Soup" width="100px" title="From odin-recipe repository">
 
-Both are added using the HTML element '<img>'.
+Both are added using the HTML element <code><img></code>.
